@@ -1,7 +1,7 @@
 ### Hi Guys! How are you? 😄
 
 
-- 🔭 Atualmente me encontro desempregado, mas me desenvolvendo e melhorando a cada dia;
+- 🔭 Atualmente sou Analista de Suporte Técnico na Valloriza Soluções;
 - 🌱 Atualmente estou aprendendo programação Front-end e cursando Sistemas de Informação;
 - 👯 Procuro ser melhor que eu mesmo, ajudar quem precisa, ensinar coisas boas e ser luz no mundo;
 - 🤔 Toda ajuda é bem vinda, quero me conectar com pessoas para evoluirmos juntos; 

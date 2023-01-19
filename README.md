@@ -23,5 +23,6 @@
   <img align="center" alt="Vs-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Vs-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" >
   <img align="center" alt="Vs-Bootstrap" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg" >
-  <img align="center" alt="Vs-Bootstrap" height="30" width="40" src="https://www.postgresql.org/" />
+  <img align="center" alt="Vs-Bootstrap" height="30" width="40" src="https://www.postgresql.org/" >
+  <img align="center" alt="Vs-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" />
 </div>

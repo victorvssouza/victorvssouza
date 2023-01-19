@@ -7,6 +7,7 @@
 - 🤔 Toda ajuda é bem vinda, quero me conectar com pessoas para evoluirmos juntos; 
 - 💬 Mais sobre mim: Sou bem aleatorio, amo tecnologia, amo a natureza, amo meus amigos e familia;
 - 📫 Contate-me pelo email: vs.developer.vs310@gmail.com;
+- 🧐 Tecnologias que uso ou já usei: HTML, CSS, JS, TS, Angular, BootStrap, Wordpress, PostGre, MongoDB, Java, Python, ...
 
 <div align="center">
   <a href="https://github.com/victorvssouza">

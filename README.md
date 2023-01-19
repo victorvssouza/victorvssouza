@@ -22,4 +22,5 @@
   <img align="center" alt="Vs-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Vs-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Vs-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="Vs-Bootstrap" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AAngular_full_color_logo.svg&psig=AOvVaw0iLvhJN2Q_MT5W6ZRJ7NKH&ust=1674247736405000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC_gP_A1PwCFQAAAAAdAAAAABAS)" />
 </div>

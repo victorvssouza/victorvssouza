@@ -1,6 +1,16 @@
-### Hi Guys! How are you? 😄
+### ENGLISH ### 
+Hi Guys! How are you? 😄
 
+- 🔭 Technical Support Analyst at Valloriza Soluções;
+- 🌱 Studying Front-end programming and studying Information Systems;
+- 👯 I try to be better than myself, help those in need, teach good things and be a light in the world;
+- 🤔 All help is welcome, I want to connect with people to evolve together;
+- 💬 More about me: I'm very random, I love technology, I love nature, I love my friends and family;
+- 📫 Contact me via email: vs.developer.vs310@gmail.com;
+- 🧐 Technologies I use or have used: HTML, CSS, JS, TS, Angular, BootStrap, Wordpress, PostGre, MongoDB, Java, Python, ...
 
+### PORTUGUÊS ###
+Eai Galera! Tudo bem com vcs? 😄
 - 🔭 Analista de Suporte Técnico na Valloriza Soluções;
 - 🌱 Estudando programação Front-end e cursando Sistemas de Informação;
 - 👯 Procuro ser melhor que eu mesmo, ajudar quem precisa, ensinar coisas boas e ser luz no mundo;

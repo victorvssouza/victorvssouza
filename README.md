@@ -1,24 +1,24 @@
 ### ENGLISH ### 
 Hi Guys! How are you? 😄
 
-🔭 Junior Developer at Valloriza Soluções;
-🌱 Studying Front-end, Back-end programming, and database management;
-👯 I strive to be a better version of myself, assist those in need, share knowledge, and be a positive influence in the world;
-🤔 All help is welcome; I want to connect with people to grow together;
-💬 More about me: I'm quite eclectic, passionate about technology, nature, and cherish my friends and family;
-📫 Contact me via email: vs.developer.vs310@gmail.com;
-🧐 Technologies I use or have used: HTML, CSS, JS, TS, Angular, Bootstrap, WordPress, PostgreSQL, MongoDB, Java, Python, ...
+- 🔭 Junior Developer at Valloriza Soluções;
+- 🌱 Studying Front-end, Back-end programming, and database management;
+- 👯 I strive to be a better version of myself, assist those in need, share knowledge, and be a positive influence in the world;
+- 🤔 All help is welcome; I want to connect with people to grow together;
+- 💬 More about me: I'm quite eclectic, passionate about technology, nature, and cherish my friends and family;
+- 📫 Contact me via email: vs.developer.vs310@gmail.com;
+- 🧐 Technologies I use or have used: HTML, CSS, JS, TS, Angular, BootStrap, Wordpress, PostGre, MongoDB, Java, Python, ...
 
 ### PORTUGUÊS ###
-Eai Galera! Tudo bem com vocês? 😄
+Eai Galera! Tudo bem com vcs? 😄
+- 🔭 Desenvolvedor Júnior na Valloriza Soluções;
+- 🌱 Estudando programação Front-end, Back-end e gerenciamento de banco de dados;
+- 👯 Busco ser uma versão melhor de mim mesmo, ajudar quem precisa, compartilhar conhecimento e ser uma influência positiva no mundo;
+- 🤔 Toda ajuda é bem-vinda; quero me conectar com pessoas para evoluirmos juntos; 
+- 💬 Mais sobre mim: Sou bem eclético, apaixonado por tecnologia, natureza e valorizo meus amigos e família;
+- 📫 Contate-me pelo email: vs.developer.vs310@gmail.com;
+- 🧐 Tecnologias que uso ou já usei: HTML, CSS, JS, TS, Angular, BootStrap, Wordpress, PostGre, MongoDB, Java, Python, ...
 
-🔭 Desenvolvedor Júnior na Valloriza Soluções;
-🌱 Estudando programação Front-end, Back-end e gerenciamento de banco de dados;
-👯 Busco ser uma versão melhor de mim mesmo, ajudar quem precisa, compartilhar conhecimento e ser uma influência positiva no mundo;
-🤔 Toda ajuda é bem-vinda; quero me conectar com pessoas para evoluirmos juntos;
-💬 Mais sobre mim: Sou bem eclético, apaixonado por tecnologia, natureza e valorizo meus amigos e família;
-📫 Contate-me pelo email: vs.developer.vs310@gmail.com;
-🧐 Tecnologias que uso ou já usei: HTML, CSS, JS, TS, Angular, Bootstrap, WordPress, PostgreSQL, MongoDB, Java, Python, ...
 
 <div align="center">
   <a href="https://github.com/victorvssouza">

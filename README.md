@@ -1,21 +1,21 @@
 ### ENGLISH ### 
 Hi Guys! How are you? 😄
 
-- 🔭 Junior Developer at Valloriza Soluções;
-- 🌱 Studying Front-end, Back-end programming, and database management;
+- 🔭 Working in the Digital Technology Unit of SESC PE;
+- 🌱 Studying software development with AI, business, management, and other areas;
 - 👯 I strive to be a better version of myself, assist those in need, share knowledge, and be a positive influence in the world;
 - 🤔 All help is welcome; I want to connect with people to grow together;
-- 💬 More about me: I'm quite eclectic, passionate about technology, nature, and cherish my friends and family;
+- 💬 More about me: Passionate about technology, nature, and cherish my friends and family;
 - 📫 Contact me via email: vs.developer.vs310@gmail.com;
 - 🧐 Technologies I use or have used: HTML, CSS, JS, TS, Angular, BootStrap, Wordpress, PostGre, MongoDB, Java, Python, ...
 
 ### PORTUGUÊS ###
 Eai Galera! Tudo bem com vcs? 😄
-- 🔭 Desenvolvedor Júnior na Valloriza Soluções;
-- 🌱 Estudando programação Front-end, Back-end e gerenciamento de banco de dados;
+- 🔭 Trabalhando na Unidade de Tecnologia Digital do SESC PE;
+- 🌱 Estudando desenvolvimento de softwares com IA, negócios, gestão e outros;
 - 👯 Busco ser uma versão melhor de mim mesmo, ajudar quem precisa, compartilhar conhecimento e ser uma influência positiva no mundo;
 - 🤔 Toda ajuda é bem-vinda; quero me conectar com pessoas para evoluirmos juntos; 
-- 💬 Mais sobre mim: Sou bem eclético, apaixonado por tecnologia, natureza e valorizo meus amigos e família;
+- 💬 Mais sobre mim: Apaixonado por tecnologia, natureza e amo meus amigos e família;
 - 📫 Contate-me pelo email: vs.developer.vs310@gmail.com;
 - 🧐 Tecnologias que uso ou já usei: HTML, CSS, JS, TS, Angular, BootStrap, Wordpress, PostGre, MongoDB, Java, Python, ...
 
